@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7fc0317-875c-49b8-a200-5ba1df84e552" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExampleTest/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExampleTest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExampleTest/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExampleTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExampleTest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExampleTest/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExampleTest/src/test/java/CSSTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExampleTest/src/test/java/WatsapWeb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExampleTest/src/test/java/XPathTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inar.Academy.WebOrder/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inar.Academy.WebOrder/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inar.Academy.WebOrder/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inar.Academy.WebOrder/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inar.Academy.WebOrder/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inar.Academy.WebOrder/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Restful-BookerAPIAutomation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TargetMarket" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.booking-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.booking-master/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.booking-master/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.booking-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.booking-master/configurations.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.booking-master/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.booking-master/src/main/java/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.booking-master/src/main/java/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.booking-master/src/main/java/pages/headerSection/HotelTab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.booking-master/src/main/java/pages/headerSection/TabBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.booking-master/src/main/java/pages/hotels/Hotel_DetailPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.booking-master/src/main/java/pages/hotels/Hotels_FilterAndList_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.booking-master/src/main/java/utils/BrowserUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.booking-master/src/main/java/utils/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.booking-master/src/main/java/utils/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.booking-master/src/main/java/utils/JSUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.booking-master/src/main/java/utils/LoggerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.booking-master/src/main/java/utils/Pages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.booking-master/src/main/java/utils/TimeStampGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.booking-master/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.booking-master/src/test/java/runners/CukesRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.booking-master/src/test/java/stepDefinitions/BaseStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.booking-master/src/test/java/stepDefinitions/BasicStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.booking-master/src/test/java/stepDefinitions/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.booking-master/src/test/java/stepDefinitions/hotelBooking/HotelFiltering_StepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.booking-master/src/test/java/stepDefinitions/hotelBooking/HotelTab_StepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.booking-master/src/test/resources/extent.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.booking-master/src/test/resources/features/BK_HT_01_HotelTabTest.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.booking-master/src/test/resources/features/BK_HT_02_HotelSearchTest.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.booking-master/src/test/resources/spark-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.inarbooking" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.inarbookingproject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.restful.booker" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.webauto/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.webauto/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.webauto/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.webauto/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.webauto/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.webauto/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.webauto/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.webauto/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.webauto/src" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.weborder" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inar-github" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inar-user-management" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jira-api-test/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jira-api-test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jira-api-test/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jira-api-test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jira-api-test/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jira-api-test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jira-api-test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jira-api-test/src/main/java/pojo/response/ApplicationRoles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jira-api-test/src/main/java/pojo/response/AvatarUrlsRes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jira-api-test/src/main/java/pojo/response/Groups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jira-api-test/src/main/java/pojo/response/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jira-api-test/src/main/java/utils/APIUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jira-api-test/src/main/java/utils/ConfigManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jira-api-test/src/main/java/utils/TestDataReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jira-api-test/src/main/java/utils/TestDataWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jira-api-test/src/test/java/step_definitions/BaseSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jira-api-test/src/test/java/step_definitions/CommonSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jira-api-test/src/test/java/step_definitions/FindUsersSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jira-api-test/src/test/java/step_definitions/GetAUserSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jira-api-test/src/test/java/step_definitions/GetAllUsersSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jira-api-test/src/test/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jira-api-test/src/test/resources/features/find_users.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jira-api-test/src/test/resources/features/get_all_users.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jira-api-test/src/test/resources/features/get_user.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jira-api-test/src/test/resources/test_data/allusers.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jira-api-test/src/test/resources/test_data/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/logs/app.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/src/main/java/pojo/request/AddAnItemToCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/src/main/java/pojo/request/CreateOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/src/main/java/pojo/request/UpdateOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/src/main/java/pojo/request/UserRegistration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/src/main/java/utils/ConfigManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/src/main/resources/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/src/test/java/context/TestContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/src/test/java/runner/CukesRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/src/test/java/step_definitions/CommonSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/src/test/java/step_definitions/cart/CreateCartStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/src/test/java/step_definitions/cart/DeleteAnItemStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/src/test/java/step_definitions/hooks/BaseSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/src/test/java/step_definitions/hooks/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/src/test/java/step_definitions/order/CreateNewOrderStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/src/test/java/step_definitions/order/DeleteOrderStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/src/test/java/step_definitions/order/GetAOrderStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/src/test/java/step_definitions/order/UpdateAOrderStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/src/test/java/step_definitions/products/AddAnItemStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/src/test/java/step_definitions/products/GetAProductStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/src/test/java/step_definitions/products/GetAllProductsStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/src/test/java/step_definitions/registration/RegistrationStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/src/test/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/src/test/resources/extent.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/src/test/resources/features/cart/add_an_item_to_cart.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/src/test/resources/features/cart/create_cart.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/src/test/resources/features/cart/delete_an_item_in_the_cart.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/src/test/resources/features/order/create_order.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/src/test/resources/features/order/delete_an_order.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/src/test/resources/features/order/get_an_order.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/src/test/resources/features/order/update_order.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/src/test/resources/features/products/get_a_product.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/src/test/resources/features/products/get_all_products.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/src/test/resources/features/registration/user_registration.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/src/test/resources/spark-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/test-reports 17-Feb-24 07-02-09/test-output/SparkReport/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/test-reports 17-Feb-24 07-02-09/test-output/reports/automation-test-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-groceries-api-test/test-reports 17-Feb-24 07-02-09/test-output/reports/test-automation-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../team2-jira-api" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testpom/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testpom/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testpom/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testpom/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testpom/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testpom/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testpom/src/test/java/test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2dGadXhDdaOS3RiXM68PIOrZWv9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Dell/workspace/dvdrental_JDBC-master",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.TestRunner">
+    <configuration name="Feature: film_details" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/film_details.feature" />
+      <option name="GLUE" value="stepdefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="dvdrental_JDBC" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: film_details" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: staff" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/staff.feature" />
+      <option name="GLUE" value="stepdefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="dvdrental_JDBC" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: staff" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Get a film detail by title" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/film_details.feature" />
+      <option name="GLUE" value="stepdefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="dvdrental_JDBC" />
+      <option name="NAME_FILTER" value="^Get a film detail by title$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Get a film detail by title$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Get a film detail by title" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Get film's category and release year by their title" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/film_details.feature" />
+      <option name="GLUE" value="stepdefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="dvdrental_JDBC" />
+      <option name="NAME_FILTER" value="^Get film\'s category and release year by their title$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Get film\'s category and release year by their title$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Get film's category and release year by their title" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dvdrental_JDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="dvdrental_JDBC-master" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="dvdrental_JDBC-master" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="Cucumber Java.Scenario: Get a film detail by title" />
+        <item itemvalue="Cucumber Java.Scenario: Get film's category and release year by their title" />
+        <item itemvalue="Cucumber Java.Feature: film_details" />
+        <item itemvalue="Cucumber Java.Feature: staff" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7fc0317-875c-49b8-a200-5ba1df84e552" name="Changes" comment="" />
+      <created>1709636958802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709636958802</updated>
+    </task>
+    <servers />
+  </component>
+</project>
